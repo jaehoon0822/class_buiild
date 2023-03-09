@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   trailingSlash: true,
   generateBuildId: () =>"codecamp-deploy-project",
-  exportPathMap: () =>{
+  exportPathMap: () => {
     return {
       "/": {page: "/"},
       "/boards": {page: "/boards"},
