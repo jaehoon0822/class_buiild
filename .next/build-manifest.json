@@ -5,9 +5,9 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/corXprCB2r_-ZGR7E3L57/_buildManifest.js",
-    "static/corXprCB2r_-ZGR7E3L57/_ssgManifest.js",
-    "static/corXprCB2r_-ZGR7E3L57/_middlewareManifest.js"
+    "static/codecamp-deploy-project/_buildManifest.js",
+    "static/codecamp-deploy-project/_ssgManifest.js",
+    "static/codecamp-deploy-project/_middlewareManifest.js"
   ],
   "pages": {
     "/": [
@@ -34,7 +34,7 @@
       "static/chunks/webpack-69bfa6990bb9e155.js",
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-c3b6816b38c7fbf8.js",
-      "static/chunks/pages/boards-d11c030200d22d7d.js"
+      "static/chunks/pages/boards-7236e9d1215a019e.js"
     ],
     "/boards/[boardId]": [
       "static/chunks/webpack-69bfa6990bb9e155.js",
